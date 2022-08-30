@@ -1,3 +1,3 @@
 # git-tutorial
 
-Test test test
+The other developer edited this
